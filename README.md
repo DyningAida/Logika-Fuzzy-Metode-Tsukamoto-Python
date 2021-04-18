@@ -12,7 +12,8 @@ yaitu apabila
 - [R1]   IF permintaan TURUN AND Persediaan BANYAK, THEN Produksi Barang dr;
 - [R2]   IF permintaan TURUN AND Persediaan SEDIKIT, THEN Produksi Barang BERKURANG;
 - [R3]   IF permintaan NAIK AND Persediaan BANYAK, THEN Produksi Barang BERTAMBAH;
-- [R4]   IF permintaan NAIK AND Persediaan SEDIKIT, THEN Produksi Barang BERTAMBAH;
+- [R4]   IF permintaan NAIK AND Persediaan SEDIKIT, THEN Produksi Barang BERTAMBAH; <br/>
+
 sehingga, output yang dihasilkan ialah berupa prediksi produksi barang di perusahaan berdasarkan jumlah permintaan dan persediaan yang ada, apakah produksi akan ditambah, atau dikurangi.
 
 dengan data :
@@ -28,8 +29,9 @@ dengan data :
 
 apabila terdapat studi kasus dengan diketahui :
 1. permintaan : 4000 
-2. persediaan : 300
-maka, produksi ?
+2. persediaan : 300 <br/>
+
+maka, produksi ? <br/>
 jawab :
 - permintaan naik = 75%, dan permintaan turun = 25%
 - dengan persediaan naik = 40%, dan persediaan turun = 60%
