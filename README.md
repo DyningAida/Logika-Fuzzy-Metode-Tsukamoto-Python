@@ -1,4 +1,4 @@
-# Fuzzy Logic dengan Tsukamoto
+# Fuzzy Logic dengan Metode Tsukamoto
 
 Program ini ialah program implementasi logika fuzzy dengan menggunakan metode Tsukamoto yang menggunakan bahasa pemrograman python.
 
